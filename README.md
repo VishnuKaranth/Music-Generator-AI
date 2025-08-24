@@ -3,4 +3,4 @@ https://musicgenerator-phi.vercel.app/
 
 
 
-# The text to music generation model used here is [Ace Step] - (https://github.com/ace-step/ACE-Step)
+# The text to music generation model used here is [Ace Step] - (https://github.com/ace-step/ACE-Step) and is run on Modal - (https://modal.com/)
